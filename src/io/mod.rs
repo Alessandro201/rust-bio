@@ -3,6 +3,9 @@
 #[path = "bed/bed.rs"]
 pub mod bed;
 
+#[path = "bed/narrowpeak.rs"]
+pub mod narrow_peak;
+
 #[path = "bed/common.rs"]
 pub mod common;
 
